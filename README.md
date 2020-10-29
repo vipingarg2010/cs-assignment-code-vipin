@@ -1,4 +1,4 @@
-# cs-assignment-vipin
+# cs-assignment-code-vipin
  
 1. This is assignment code for the given problem related to publishing the events log 
 
