@@ -1,0 +1,131 @@
+2020-10-29 21:33:09 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2020-10-29 21:33:09 INFO  Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+2020-10-29 21:33:09 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2020-10-29 21:33:09 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2020-10-29 21:33:09 INFO  Configuration:2109 - HHH000044: Configuring from URL: file:/D:/Vipin_Dublin_SpringBoot/codingChallenge/target/classes/hibernate.cfg.xml
+2020-10-29 21:33:09 WARN  DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2020-10-29 21:33:09 ERROR HibernateUtil:28 - Initial SessionFactory creation failed.org.hibernate.MappingException: Unable to load class [ com.credit.suisse.assignment.entity.ApplicationEvent] declared in Hibernate configuration <mapping/> entry
+2020-10-29 21:33:52 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2020-10-29 21:33:52 INFO  Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+2020-10-29 21:33:52 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2020-10-29 21:33:52 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2020-10-29 21:33:52 INFO  Configuration:2109 - HHH000044: Configuring from URL: file:/D:/Vipin_Dublin_SpringBoot/codingChallenge/target/classes/hibernate.cfg.xml
+2020-10-29 21:33:52 WARN  DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2020-10-29 21:33:52 ERROR HibernateUtil:28 - Initial SessionFactory creation failed.org.hibernate.MappingException: Unable to load class [ com.credit.suisse.assignment.entity.ApplicationEvent] declared in Hibernate configuration <mapping/> entry
+2020-10-29 21:34:43 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2020-10-29 21:34:43 INFO  Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+2020-10-29 21:34:43 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2020-10-29 21:34:43 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2020-10-29 21:34:43 INFO  Configuration:2109 - HHH000044: Configuring from URL: file:/D:/Vipin_Dublin_SpringBoot/codingChallenge/target/classes/hibernate.cfg.xml
+2020-10-29 21:34:43 WARN  DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2020-10-29 21:34:43 ERROR HibernateUtil:28 - Initial SessionFactory creation failed.org.hibernate.MappingException: Unable to load class [ com.credit.suisse.assignment.entity.ApplicationEvent] declared in Hibernate configuration <mapping/> entry
+2020-10-29 21:35:41 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2020-10-29 21:35:41 INFO  Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+2020-10-29 21:35:41 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2020-10-29 21:35:41 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2020-10-29 21:35:41 INFO  Configuration:2109 - HHH000044: Configuring from URL: file:/D:/Vipin_Dublin_SpringBoot/codingChallenge/target/classes/hibernate.cfg.xml
+2020-10-29 21:35:42 WARN  DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2020-10-29 21:35:42 INFO  Configuration:2214 - HHH000041: Configured SessionFactory: null
+2020-10-29 21:35:42 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-10-29 21:35:42 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [org.hsqldb.jdbcDriver] at URL [jdbc:hsqldb:mem:csdatabase]
+2020-10-29 21:35:42 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=sa, password=****}
+2020-10-29 21:35:42 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2020-10-29 21:35:42 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-10-29 21:35:42 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.HSQLDialect
+2020-10-29 21:35:42 INFO  LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2020-10-29 21:35:42 INFO  TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2020-10-29 21:35:42 INFO  ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+2020-10-29 21:35:45 INFO  SchemaExport:343 - HHH000227: Running hbm2ddl schema export
+2020-10-29 21:35:45 INFO  SchemaExport:405 - HHH000230: Schema export complete
+2020-10-29 21:35:45 INFO  HibernateUtil:34 - Getting sessionFactory Object
+2020-10-29 21:35:45 INFO  ApplicationEventServiceImpl:26 - ApplicationEvent Object with Id :scsmbstgra and Duration is :5is saved successfully
+2020-10-29 21:35:45 INFO  EventProcessor:36 - Method processEvent is completed successfully
+2020-10-29 21:35:45 INFO  HibernateUtil:34 - Getting sessionFactory Object
+2020-10-29 21:35:45 INFO  ApplicationEventServiceImpl:26 - ApplicationEvent Object with Id :scsmbstgrc and Duration is :8is saved successfully
+2020-10-29 21:35:45 INFO  EventProcessor:36 - Method processEvent is completed successfully
+2020-10-29 21:35:45 INFO  HibernateUtil:34 - Getting sessionFactory Object
+2020-10-29 21:35:45 INFO  ApplicationEventServiceImpl:26 - ApplicationEvent Object with Id :scsmbstgrd and Duration is :3is saved successfully
+2020-10-29 21:35:45 INFO  EventProcessor:36 - Method processEvent is completed successfully
+2020-10-29 21:35:45 INFO  HibernateUtil:34 - Getting sessionFactory Object
+2020-10-29 21:35:45 INFO  ApplicationEventServiceImpl:26 - ApplicationEvent Object with Id :scsmbstgre and Duration is :1783793658is saved successfully
+2020-10-29 21:35:45 INFO  EventProcessor:36 - Method processEvent is completed successfully
+2020-10-29 21:35:45 INFO  HibernateUtil:34 - Getting sessionFactory Object
+2020-10-29 21:35:45 INFO  ApplicationEventServiceImpl:26 - ApplicationEvent Object with Id :scsmbstgrf and Duration is :-587665107is saved successfully
+2020-10-29 21:35:45 INFO  EventProcessor:36 - Method processEvent is completed successfully
+2020-10-29 21:35:45 INFO  HibernateUtil:34 - Getting sessionFactory Object
+2020-10-29 21:35:45 INFO  SchemaExport:343 - HHH000227: Running hbm2ddl schema export
+2020-10-29 21:35:45 INFO  SchemaExport:405 - HHH000230: Schema export complete
+2020-10-29 21:35:45 INFO  DriverManagerConnectionProviderImpl:281 - HHH000030: Cleaning up connection pool [jdbc:hsqldb:mem:csdatabase]
+2020-10-29 21:35:45 INFO  HibernateUtil:40 - Closing sessionFactory
+2020-10-29 21:36:27 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2020-10-29 21:36:27 INFO  Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+2020-10-29 21:36:27 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2020-10-29 21:36:27 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2020-10-29 21:36:27 INFO  Configuration:2109 - HHH000044: Configuring from URL: file:/D:/Vipin_Dublin_SpringBoot/codingChallenge/target/classes/hibernate.cfg.xml
+2020-10-29 21:36:27 WARN  DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2020-10-29 21:36:27 INFO  Configuration:2214 - HHH000041: Configured SessionFactory: null
+2020-10-29 21:36:27 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-10-29 21:36:27 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [org.hsqldb.jdbcDriver] at URL [jdbc:hsqldb:mem:csdatabase]
+2020-10-29 21:36:27 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=sa, password=****}
+2020-10-29 21:36:27 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2020-10-29 21:36:27 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-10-29 21:36:27 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.HSQLDialect
+2020-10-29 21:36:27 INFO  LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2020-10-29 21:36:27 INFO  TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2020-10-29 21:36:27 INFO  ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+2020-10-29 21:36:30 INFO  SchemaExport:343 - HHH000227: Running hbm2ddl schema export
+2020-10-29 21:36:30 INFO  SchemaExport:405 - HHH000230: Schema export complete
+2020-10-29 21:36:30 INFO  HibernateUtil:34 - Getting sessionFactory Object
+2020-10-29 21:36:30 INFO  ApplicationEventServiceImpl:26 - ApplicationEvent Object with Id :scsmbstgra and Duration is :5is saved successfully
+2020-10-29 21:36:30 INFO  EventProcessor:36 - Method processEvent is completed successfully
+2020-10-29 21:36:30 INFO  HibernateUtil:34 - Getting sessionFactory Object
+2020-10-29 21:36:30 INFO  ApplicationEventServiceImpl:26 - ApplicationEvent Object with Id :scsmbstgrc and Duration is :8is saved successfully
+2020-10-29 21:36:30 INFO  EventProcessor:36 - Method processEvent is completed successfully
+2020-10-29 21:36:30 INFO  HibernateUtil:34 - Getting sessionFactory Object
+2020-10-29 21:36:30 INFO  ApplicationEventServiceImpl:26 - ApplicationEvent Object with Id :scsmbstgrd and Duration is :3is saved successfully
+2020-10-29 21:36:30 INFO  EventProcessor:36 - Method processEvent is completed successfully
+2020-10-29 21:36:30 INFO  HibernateUtil:34 - Getting sessionFactory Object
+2020-10-29 21:36:30 INFO  ApplicationEventServiceImpl:26 - ApplicationEvent Object with Id :scsmbstgre and Duration is :1783793658is saved successfully
+2020-10-29 21:36:30 INFO  EventProcessor:36 - Method processEvent is completed successfully
+2020-10-29 21:36:30 INFO  HibernateUtil:34 - Getting sessionFactory Object
+2020-10-29 21:36:30 INFO  ApplicationEventServiceImpl:26 - ApplicationEvent Object with Id :scsmbstgrf and Duration is :-587665107is saved successfully
+2020-10-29 21:36:30 INFO  EventProcessor:36 - Method processEvent is completed successfully
+2020-10-29 21:36:30 INFO  HibernateUtil:34 - Getting sessionFactory Object
+2020-10-29 21:36:30 INFO  DriverManagerConnectionProviderImpl:281 - HHH000030: Cleaning up connection pool [jdbc:hsqldb:mem:csdatabase]
+2020-10-29 21:36:30 INFO  HibernateUtil:40 - Closing sessionFactory
+2020-10-29 22:44:19 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2020-10-29 22:44:19 INFO  Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+2020-10-29 22:44:19 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2020-10-29 22:44:19 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2020-10-29 22:44:19 INFO  Configuration:2109 - HHH000044: Configuring from URL: file:/D:/Vipin_Dublin_SpringBoot/codingChallenge/target/classes/hibernate.cfg.xml
+2020-10-29 22:44:20 WARN  DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2020-10-29 22:44:20 INFO  Configuration:2214 - HHH000041: Configured SessionFactory: null
+2020-10-29 22:44:20 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-10-29 22:44:20 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [org.hsqldb.jdbcDriver] at URL [jdbc:hsqldb:mem:csdatabase]
+2020-10-29 22:44:20 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=sa, password=****}
+2020-10-29 22:44:20 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2020-10-29 22:44:20 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-10-29 22:44:20 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.HSQLDialect
+2020-10-29 22:44:20 INFO  LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2020-10-29 22:44:20 INFO  TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2020-10-29 22:44:20 INFO  ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+2020-10-29 22:44:23 INFO  SchemaExport:343 - HHH000227: Running hbm2ddl schema export
+2020-10-29 22:44:23 INFO  SchemaExport:405 - HHH000230: Schema export complete
+2020-10-29 22:44:23 INFO  HibernateUtil:34 - Getting sessionFactory Object
+2020-10-29 22:44:23 INFO  ApplicationEventServiceImpl:26 - ApplicationEvent Object with Id :scsmbstgra and Duration is :5is saved successfully
+2020-10-29 22:44:23 INFO  EventProcessor:36 - Method processEvent is completed successfully
+2020-10-29 22:44:23 INFO  HibernateUtil:34 - Getting sessionFactory Object
+2020-10-29 22:44:23 INFO  ApplicationEventServiceImpl:26 - ApplicationEvent Object with Id :scsmbstgrc and Duration is :8is saved successfully
+2020-10-29 22:44:23 INFO  EventProcessor:36 - Method processEvent is completed successfully
+2020-10-29 22:44:23 INFO  HibernateUtil:34 - Getting sessionFactory Object
+2020-10-29 22:44:23 INFO  ApplicationEventServiceImpl:26 - ApplicationEvent Object with Id :scsmbstgrd and Duration is :3is saved successfully
+2020-10-29 22:44:23 INFO  EventProcessor:36 - Method processEvent is completed successfully
+2020-10-29 22:44:23 INFO  HibernateUtil:34 - Getting sessionFactory Object
+2020-10-29 22:44:23 INFO  ApplicationEventServiceImpl:26 - ApplicationEvent Object with Id :scsmbstgre and Duration is :1783793658is saved successfully
+2020-10-29 22:44:23 INFO  EventProcessor:36 - Method processEvent is completed successfully
+2020-10-29 22:44:23 INFO  HibernateUtil:34 - Getting sessionFactory Object
+2020-10-29 22:44:23 INFO  ApplicationEventServiceImpl:26 - ApplicationEvent Object with Id :scsmbstgrf and Duration is :-587665107is saved successfully
+2020-10-29 22:44:23 INFO  EventProcessor:36 - Method processEvent is completed successfully
+2020-10-29 22:44:23 INFO  HibernateUtil:34 - Getting sessionFactory Object
+2020-10-29 22:44:23 INFO  DriverManagerConnectionProviderImpl:281 - HHH000030: Cleaning up connection pool [jdbc:hsqldb:mem:csdatabase]
+2020-10-29 22:44:23 INFO  HibernateUtil:40 - Closing sessionFactory
